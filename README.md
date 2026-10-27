@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./banner.png.jpeg" width="100%" alt="Phanuel - Data Science and Software Development">
+
+</div>
+
+<div align="center">
+
 # Hi, I'm Phanuel 👋
 
 ### Data Science Student | Aspiring Software Engineer
