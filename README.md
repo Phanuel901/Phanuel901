@@ -89,7 +89,9 @@ I enjoy learning how things work, experimenting with new tools, and building pra
 
 ### Contact
 -GitHub: https://github.com/Phanuel901
+
 -Email: agumphanuel901@gmail.com
+
 -Whatsapp: +254140502234
 
 </div>
